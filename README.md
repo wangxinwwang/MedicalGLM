@@ -1,7 +1,7 @@
 # MedicalGLM
 ## Prepare in advance
-base model: https://huggingface.co/THUDM/chatglm-6b-int4
-reward base model: https://huggingface.co/FacebookAI/xlm-roberta-large/tree/main
+### base model: https://huggingface.co/THUDM/chatglm-6b-int4
+### reward base model: https://huggingface.co/FacebookAI/xlm-roberta-large/tree/main
 ## Training the reward model
 --model_type roberta
 --model_name_or_path
